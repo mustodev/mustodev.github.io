@@ -1,0 +1,27 @@
+{
+    "name": "🖤 www.iwishkem.tk CLOSED 🖤",
+    "identifier": "repo.iwishkem.tk",
+    "sourceURL": "http://www.iwishkem.tk/esign.json",
+    "apps": [
+	{	
+	"name": "Pythonista",
+	"version": "3",
+	"versionDate": "2023-04-03T17:35:00+03:00",
+	"versionDescription": "$9.99 in AppStore",
+	"downloadURL": "https://trappleipa.herokuapp.com/65/Pythonista.ipa",
+	"iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/7c/e4/10/7ce410fb-f882-fe51-9209-7a95eb9aa408/source/512x512bb.jpg",
+	"isLanZouCloud": 0,
+	"size": 267292508.16
+	},
+        {	
+	"name": "Scarlet",
+	"version": "1.0",
+	"versionDate": "2023-04-04T19:24:00+03:00",
+	"versionDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+	"downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+	"iconURL": "https://usescarlet.com/icon.png",
+	"isLanZouCloud": 0,
+	"size": 15099494.4
+	}
+      ]
+}

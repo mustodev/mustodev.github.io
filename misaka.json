@@ -1,0 +1,253 @@
+{
+    "RepositoryName": "iWishkem 💕",
+    "RepositoryDescription": "with bots ❤️",
+    "RepositoryAuthor": "iWishkem",
+    "RepositoryIcon": "https://media.discordapp.net/attachments/1091684135401160798/1093198663637012491/IMG_0088.jpg",
+    "RepositoryWebsite": "https://www.iwishkem.tk/misaka.json",
+    "Default":{
+      "HeaderImage": "https://media.discordapp.net/attachments/1091684135401160798/1104779020362592396/image.png",
+      "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Legacy48",
+            "Description": "Play 2048 in yout settings",
+            "Category": "Game",
+            "Caption": "Play 2048 on your settings\r\n\r\nSettings -> General -> Legal -> Legal\r\n\r",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1091684135401160798/1093551235505856644/IMG_0099.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishkem.Legacy48.misaka",
+                    "Description": "Play 2048 on your settings\r\n\r\nSettings -> General -> Legal -> Legal\r\n\rLegacy games by DekotasTM"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.Legacy48"
+        },
+        {
+            "Name": "LegasyCandy",
+            "Description": "Play Fake Candy Crush in yout settings",
+            "Category": "Game",
+            "Caption": "Play Fake Candy Crush on your settings\r\n\r\nSettings -> General -> Legal -> Legal\r\n\rLegacy games by DekotasTM",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "http://www.html5haven.com/mobile/fruitgroup/screen.png",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1093529290961866806/1093592830640930816/IMG_0122.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/LegacyCandy.misaka",
+                    "Description": "Play Fake Candy Crush on your settings\r\n\r\nSettings -> General -> Legal -> Legal\r\n\rLegacy games by DekotasTM"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.LegacyCandy"
+        },
+        {
+            "Name": "iOS 16 clocks for iOS15",
+            "Description": "iOS16 clocks for iOS15\r\n\r Use tweak settings for change clock! (There is 6 clock)",
+            "Category": "Lock Screen",
+            "Caption": "iOS16 clocks for iOS15\r\n\r Use tweak settings for change clock! (There is 6 clock)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1091684135401160798/1096106140493938838/IMG_0258.jpg",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1091684135401160798/1093893079930515476/IMG_0132.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "Final + Bonus",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishkem.tk.iOS16Clock_1.misaka",
+                    "Description": "iOS16 clocks for iOS15\r\n\r Use tweak settings for change clock! (There is 6 clock)"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.iOS16Clock_1"
+        },
+        {
+            "Name": "Samsung Galaxy Note 7",
+            "Description": "Change your device model to Samsung Galaxy Note 7.",
+            "Category": "Settings",
+            "Caption": "Change your device model to Samsung Galaxy Note 7",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://resim.epey.com/51994/m_samsung-galaxy-note-7-3.png",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1091684135401160798/1094468995484241920/IMG_0191.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishkem.tk.SamsungNote7.misaka",
+                    "Description": "Change your device model to Samsung Galaxy Note 7."
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.SamsungNote7"
+        },
+        {
+            "Name": "Version Changer",
+            "Description": "Change your device version to ANYTHING!",
+            "Category": "Settings",
+            "Caption": "Change your device version to ANYTHING!\r\n\r•USE AT OWN RISK",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1091684135401160798/1094592759035342910/IMG_0202.jpg",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1091684135401160798/1094590701561454622/IMG_0199.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/VersionChanger.misaka",
+                    "Description": "Change your device version to ANYTHING!"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.VersionChanger"
+        },
+        {
+            "Name": "Clockonike",
+            "Description": "Change your clock icon to nike!",
+            "Category": "Clock",
+            "Caption": "Change your clock icon to nike!(ported in misaka)\r\n\r•Found that on somewhere in twitter i want to be credit so who made it just pm me",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1091684135401160798/1095347658656321649/IMG_0224.png",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1091684135401160798/1095347658656321649/IMG_0224.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.1",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishlem.tk.Clockonike.misaka",
+                    "Description": "Change your clock icon to nike!"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.Clockonike"
+        },
+        {
+            "Name": "ValorantCC",
+            "Description": "Valorant Sage Icons In CC",
+            "Category": "Control Center",
+            "Caption": "Valorant Sage Icons In CC.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1091684135401160798/1131607775101862040/images.jpg",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1131566304130764830/1131580294248534046/RPReplay_Final1689860152.mov"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "Sage",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishkem.tk.valorantcc.misaka",
+                    "Description": "Sage"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.valorantcc"
+        },
+        {
+            "Name": "Google Play Store!",
+            "Description": "Google play store, in iOS?",
+            "Category": "Appstore Icons",
+            "Caption": "Google play store, in iOS?",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "iWishkem",
+                "Links": [
+                    {
+                        "Label": "Instagram",
+                        "Link": "https://instagram.com/yasiin.arda"
+                    }
+                ]
+            },
+            "Icon": "https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj",
+            "Screenshot": [
+                "https://media.discordapp.net/attachments/1118116058444877917/1132568858285310003/IMG_0083.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0.0",
+                    "Package": "https://github.com/iwishkem/iwishkem.github.io/raw/main/tweaks/www.iwishkem.tk.PlayStore.misaka",
+                    "Description": "Google play store, in iOS?"
+                }
+            ],
+            "PackageID": "www.iwishkem.tk.PlayStore"
+        }        
+    ]
+}

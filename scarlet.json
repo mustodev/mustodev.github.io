@@ -1,0 +1,16 @@
+{
+	"META": {
+		"repoName": "Scarlet Repo",
+		"repoIcon": "https://usescarlet.com/favicon.png"
+	},
+	"Category": [{
+		"name": "App",
+		"version": "Version",
+		"icon": "İcon",
+		"down": "Download Link",
+		"description": "Description",
+		"bundleID": "com.DebianArch.Scarlet",
+		"category": "Categort2",
+		"changelog": "Changeloh"
+	}]
+}
