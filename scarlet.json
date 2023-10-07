@@ -1,16 +1,16 @@
 {
 	"META": {
-		"repoName": "Scarlet Repo",
-		"repoIcon": "https://usescarlet.com/favicon.png"
+		"repoName": "PureKFD",
+		"repoIcon": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/4.0/PureKFD/Assets.xcassets/AppIcons/AppIcon.appiconset/App%20Store.png"
 	},
 	"Category": [{
-		"name": "App",
-		"version": "Version",
-		"icon": "İcon",
-		"down": "Download Link",
-		"description": "Description",
-		"bundleID": "com.DebianArch.Scarlet",
-		"category": "Categort2",
-		"changelog": "Changeloh"
+		"name": "PureKFD",
+		"version": "4.0",
+		"icon": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/4.0/PureKFD/Assets.xcassets/AppIcons/AppIcon.appiconset/App%20Store.png",
+		"down": "https://github.com/Lrdsnow/PureKFD/releases/download/4.0/PureKFD.ipa",
+		"description": "PureKFD is the ultimate KFD customization toolbox for iOS. With plenty of misaka and picasso repos, you can customize your iphone to the max.",
+		"bundleID": "uwu.lrdsnow.purekfd",
+		"category": "Customization",
+		"changelog": "+ Version 4.0"
 	}]
 }
