@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>iWishkem</title>
-    <link rel="stylesheet" href="style.css"> <!-- Create a separate CSS file for styles -->
+    <link rel="stylesheet" href="styles.css"> <!-- Create a separate CSS file for styles -->
+    <script src="main.js"></script> <!-- Include your JavaScript file -->
 </head>
 
 <body>
@@ -17,11 +18,10 @@
         <div class="buttons">
             <button id="generate" class="button">Start</button>
             <button id="stop" class="button">Stop</button>
-            <button id="clear" class="button" onclick="clearOutput()">Clear</button>
+            <button id="clear" class="button">Clear</button>
         </div>
-        <textarea id="output" rows="11" cols="100" readonly></textarea>
+        <textarea id="a" rows="11" cols="100" readonly></textarea> <!-- Added id="a" to the textarea -->
     </div>
-    <script src="main.js"></script>
 </body>
 
 </html>
