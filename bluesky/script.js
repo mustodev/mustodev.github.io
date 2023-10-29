@@ -4,7 +4,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     var username = document.getElementById('username').value;
     var password = document.getElementById('password').value;
 
-    fetch('data.json')
+    fetch('https://www.iwishkem.tk/bluesky/data.json') // Replace with your JSON URL
         .then(response => response.json())
         .then(data => {
             var foundUser = data.users.find(user => user.username === username && user.password === password);
@@ -15,5 +15,6 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
                 // Display error message
                 document.getElementById('error').innerText = 'Invalid username or password.';
             }
-        });
+        })
+        .catch(error => console.error('Error fetching data:', error));
 });
