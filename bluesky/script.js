@@ -10,7 +10,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
             var foundUser = data.users.find(user => user.username === username && user.password === password);
             if (foundUser) {
                 // Redirect or perform action for successful login
-                window.location.href = 'success.html';
+                window.location.href = 'generator.html';
             } else {
                 // Display error message
                 document.getElementById('error').innerText = 'Invalid username or password.';
