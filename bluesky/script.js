@@ -4,7 +4,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     var username = document.getElementById('username').value;
     var password = document.getElementById('password').value;
 
-    fetch('https://www.iwishkem.tk/bluesky/data.json') // Replace with your JSON URL
+    fetch('https://iwishkem.tech/bluesky/data.json') // Replace with your JSON URL
         .then(response => response.json())
         .then(data => {
             var foundUser = data.users.find(user => user.username === username && user.password === password);
