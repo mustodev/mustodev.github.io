@@ -14,12 +14,18 @@
       // Wait for 2 seconds and then show the user's entered ID
       setTimeout(function() {
         // Show the user's entered ID
-        document.getElementById("userId").innerText = `Connected With ${userId} ID`;
+        document.getElementById("userId").innerText = `Connected With ${userId}`;
+
+        
+      setTimeout(function()
+        document.getElementById("userId").innerText = `Adding gold to connected account...`;
+
         
         // Wait for an additional 8 seconds and then redirect to YouTube
         setTimeout(function() {
-          window.location.href = "https://youtu.be/dQw4w9WgXcQ?feature=shared"; // Redirect to YouTube
+          window.location.href = "https://shop.playblockpost.com/"; // Redirect to YouTube
         }, 8000); // 8000 milliseconds = 8 seconds
+       }, 3000); // 3000 miliseconds = 3 seconds
       }, 2000); // 2000 milliseconds = 2 seconds
     }
   </script>
@@ -28,7 +34,7 @@
   <h1>BlockPost Mobile Free 50 Gold</h1>
   
   <!-- Input box for the user's ID -->
-  <label for="userIdInput">Enter your ID:</label>
+  <label for="userIdInput">Enter your ID/Username:</label>
   <input type="text" id="userIdInput">
   <button onclick="showUserIdAndRedirect()">Submit</button>
   
