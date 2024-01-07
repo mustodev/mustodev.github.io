@@ -23,12 +23,12 @@ print(Colorate.Vertical(Colors.purple_to_blue, Center.XCenter("""
                                                                            
 
    
-                      ⌜――――――――――――――――――――――――――――――――――――――――――――――――――――⌝
-                      ┇      [BlueSky] https://bsky.app/profile/iwishkem.tk┇         
-                      ┇      [Github]  https://github.com/iwishkem         ┇
-                      ┇      [Youtube] https://youtube.com/c/iwishkem      ┇
-                      ┇                Never Trust Anyone.                 ┇
-                      ⌞――――――――――――――――――――――――――――――――――――――――――――――――――――⌟
+                      ⌜―――――――――――――――――――――――――――――――――――――――――――――――――――――――⌝
+                      ┇      [BlueSky] https://bsky.app/profile/iwishkem.tech ┇         
+                      ┇      [Github]  https://github.com/iwishkem            ┇
+                      ┇      [Youtube] https://youtube.com/c/iwishkem         ┇
+                      ┇                Never Trust Anyone.                    ┇
+                      ⌞―――――――――――――――――――――――――――――――――――――――――――――――――――――――⌟
                       """)))
 time.sleep(0.2)
 
@@ -61,7 +61,7 @@ with open("bluesky.txt") as file:
     for line in file.readlines():
         bluesky = line.strip("\n")
 
-        url = "https://www.iwishkem.tk/" + bluesky + "?crashfixer=ture"
+        url = "https://iwishkem.tech/" + bluesky + "?crashfixer=ture"
 
         r = requests.get(url)
 
