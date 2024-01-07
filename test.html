@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User ID Redirect</title>
+  <script>
+    function showUserIdAndRedirect() {
+      // Get the user's entered ID from the input box
+      const userId = document.getElementById("userIdInput").value;
+      
+      // Display the "connecting to account" message for 2 seconds
+      document.getElementById("loadingText").innerText = "Connecting to account...";
+      
+      // Wait for 2 seconds and then show the user's entered ID
+      setTimeout(function() {
+        // Show the user's entered ID
+        document.getElementById("userId").innerText = `User ID: ${userId}`;
+        
+        // Wait for an additional 8 seconds and then redirect to YouTube
+        setTimeout(function() {
+          window.location.href = "https://www.youtube.com"; // Redirect to YouTube
+        }, 8000); // 8000 milliseconds = 8 seconds
+      }, 2000); // 2000 milliseconds = 2 seconds
+    }
+  </script>
+</head>
+<body>
+  <h1>User ID Connection</h1>
+  
+  <!-- Input box for the user's ID -->
+  <label for="userIdInput">Enter your ID:</label>
+  <input type="text" id="userIdInput">
+  <button onclick="showUserIdAndRedirect()">Submit</button>
+  
+  <p id="loadingText"></p>
+  <p id="userId"></p>
+</body>
+</html>
