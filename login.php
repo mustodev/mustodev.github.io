@@ -1,1 +1,4 @@
-yes
+<?php
+echo "Yes";
+?>
+
